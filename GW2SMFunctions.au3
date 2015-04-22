@@ -14,7 +14,6 @@ Func GetHandle()
    Global $Handle = WinGetHandle( "Guild Wars 2" )
 EndFunc
 
-
 Func PlaySong()
 
    ; Prüft ob GW2 überhaupt läuft
@@ -28,7 +27,7 @@ Func PlaySong()
   if Not IsDeclared( "SongFile" ) Then
 	 MsgBox( $MB_SYSTEMMODAL, "Kein Song geladen!", "Bitte einen Song auswählen!", 10 )
 	 Return False
-   EndIf
+  EndIf
 
    ; Hier spielt die Musik
    $SongContent = FileReadToArray( $SongFile )
