@@ -20,26 +20,31 @@ Func PlaySong()
    ; Prüft ob GW2 überhaupt läuft
    if Not($Handle) Then
 	  GetHandle()
-	  MsgBox($MB_SYSTEMMODAL, "Fehler", "Guild Wars 2 nicht aktiv!", 10)
+	  MsgBox( $MB_SYSTEMMODAL, "Fehler", "Guild Wars 2 nicht aktiv!", 10 )
 	  Return False
   EndIf
 
   ; Prüft ob ein Song geladen ist
-  if Not IsDeclared("SongFile") Then
-	 MsgBox($MB_SYSTEMMODAL, "Kein Song geladen!", "Bitte einen Song auswählen!", 10)
+  if Not IsDeclared( "SongFile" ) Then
+	 MsgBox( $MB_SYSTEMMODAL, "Kein Song geladen!", "Bitte einen Song auswählen!", 10 )
 	 Return False
    EndIf
 
    ; Hier spielt die Musik
-   $SongContent = FileReadToArray($SongFile)
-   For $i = 0 To UBound($SongContent) - 1
-	  If StringRegExp($SongContent[$i], "\bSleep?\b") Then
+   $SongContent = FileReadToArray( $SongFile )
+   For $i = 0 To UBound( $SongContent ) - 1
+	  If StringRegExp( $SongContent[$i], "\bSleep?\b" ) Then
 		 ; Pausen
-		 Execute($SongContent[$i])
-	  Else
+		 Execute( $SongContent[$i] )
+		 ConsoleWrite( "Pause: " & $SongContent[$i] & @CRLF )
+	  ElseIf StringRegExp( $SongContent[$i], "{Numpad[0-9](}|\s(down|up)})" ) Then
 		 ; Noten
-		 ;{Numpad[0-9]?(\s(down|up))
-		 ConsoleWrite($SongContent[$i] & @CRLF)
+		 ControlSend($Handle, "", "", $SongContent[$i])
+		 ConsoleWrite( "Note: " & $SongContent[$i] & @CRLF )
+	  Else
+		 ; Bei Fehler in Songdatei anhalten
+		 ConsoleWrite( "Error: " & $SongContent[$i] & @CRLF )
+		 ExitLoop
 	  EndIf
    Next
 
