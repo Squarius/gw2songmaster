@@ -1,0 +1,413 @@
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad4 down}
+{Numpad2 down}
+Sleep (211)
+{Numpad4 up}
+{Numpad2 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (286)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (286)
+{Numpad2 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad2 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad2 up}
+{Numpad9}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad6 down}
+Sleep (286)
+{Numpad6 up}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad6 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad6 up}
+Sleep (286)
+Sleep (286)
+Sleep (286)
+{Numpad2 down}
+{Numpad4 down}
+{Numpad2 up}
+{Numpad4 up}
+Sleep (75)
+{Numpad9}
+{Numpad4 down}
+Sleep (211)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (286)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (286)
+{Numpad2 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad2 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad2 up}
+{Numpad9}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad6 down}
+Sleep (286)
+{Numpad6 up}
+{Numpad4 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad6 down}
+Sleep (286)
+{Numpad4 up}
+{Numpad6 up}
+Sleep (286)
+Sleep (286)
+Sleep (286)
+{Numpad3 down}
+{Numpad5 down}
+{Numpad3 up}
+{Numpad5 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+{Numpad5 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad5 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad5 down}
+{Numpad5 up}
+Sleep (75)
+{Numpad9}
+{Numpad5 down}
+Sleep (211)
+{Numpad5 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad3 down}
+{Numpad7 down}
+{Numpad3 up}
+{Numpad7 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+{Numpad7 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad7 up}
+{Numpad5 down}
+{Numpad5 up}
+Sleep (75)
+{Numpad0}
+{Numpad5 down}
+Sleep (211)
+{Numpad5 up}
+{Numpad7 down}
+{Numpad7 up}
+Sleep (75)
+{Numpad9}
+{Numpad7 down}
+Sleep (211)
+{Numpad7 up}
+{Numpad5 down}
+{Numpad5 up}
+Sleep (75)
+{Numpad0}
+{Numpad5 down}
+Sleep (211)
+{Numpad5 up}
+{Numpad5 down}
+{Numpad7 down}
+Sleep (286)
+{Numpad5 up}
+{Numpad7 up}
+Sleep (286)
+Sleep (286)
+Sleep (286)
+{Numpad2 down}
+{Numpad4 down}
+{Numpad2 up}
+{Numpad4 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (286)
+{Numpad6 up}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad4 down}
+Sleep (211)
+{Numpad4 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad6 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad4 down}
+Sleep (211)
+{Numpad4 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad6 down}
+{Numpad2 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (211)
+{Numpad2 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (211)
+{Numpad2 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad4 down}
+{Numpad6 down}
+{Numpad4 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad4 down}
+{Numpad6 down}
+{Numpad4 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad4 down}
+Sleep (136)
+{Numpad4 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+Sleep (211)
+{Numpad2 up}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad9}
+{Numpad4 down}
+Sleep (211)
+{Numpad4 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+Sleep (211)
+{Numpad2 up}
+{Numpad9}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad1 down}
+{Numpad6 up}
+{Numpad1 up}
+{Numpad0}
+{Numpad5 down}
+{Numpad3 down}
+Sleep (211)
+{Numpad5 up}
+{Numpad3 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+{Numpad3 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad1 down}
+Sleep (211)
+{Numpad6 up}
+{Numpad1 up}
+{Numpad3 down}
+{Numpad6 down}
+{Numpad3 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (211)
+{Numpad3 up}
+{Numpad5 down}
+{Numpad5 up}
+Sleep (75)
+{Numpad0}
+{Numpad5 down}
+{Numpad5 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad3 down}
+Sleep (211)
+{Numpad7 up}
+{Numpad3 up}
+{Numpad9}
+{Numpad1 down}
+{Numpad3 down}
+{Numpad8 down}
+Sleep (286)
+{Numpad1 up}
+{Numpad3 up}
+{Numpad8 up}
+{Numpad5 down}
+{Numpad7 down}
+{Numpad5 up}
+{Numpad7 up}
+Sleep (75)
+{Numpad9}
+{Numpad5 down}
+Sleep (211)
+{Numpad5 up}
+{Numpad0}
+{Numpad1 down}
+{Numpad3 down}
+{Numpad8 down}
+Sleep (286)
+{Numpad1 up}
+{Numpad3 up}
+{Numpad8 up}
+{Numpad9}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad4 down}
+{Numpad6 up}
+{Numpad4 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad5 down}
+Sleep (211)
+{Numpad7 up}
+{Numpad5 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+{Numpad6 down}
+{Numpad2 up}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad6 down}
+Sleep (136)
+{Numpad6 up}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad4 down}
+{Numpad4 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad4 down}
+Sleep (136)
+{Numpad6 up}
+{Numpad4 up}
+{Numpad3 down}
+{Numpad5 down}
+{Numpad3 up}
+{Numpad5 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (136)
+{Numpad3 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+{Numpad4 down}
+{Numpad2 down}
+Sleep (136)
+{Numpad6 up}
+{Numpad4 up}
+{Numpad2 up}

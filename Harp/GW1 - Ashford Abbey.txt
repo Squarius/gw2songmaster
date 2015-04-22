@@ -1,0 +1,1305 @@
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad0}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad0}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad3 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad8 up}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad6 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad7 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad0}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad8 up}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad6 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad7 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad7 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad4 down}
+Sleep (210)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad0}
+{Numpad1 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (500)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (425)
+{Numpad6 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad6 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad2 down}
+Sleep (210)
+{Numpad2 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad1 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad6 up}
+{Numpad4 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad8 up}
+{Numpad1 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (175)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 up}
+{Numpad5 down}
+{Numpad5 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad7 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad4 down}
+Sleep (210)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad0}
+{Numpad1 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (500)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (425)
+{Numpad6 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad6 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad2 down}
+Sleep (210)
+{Numpad2 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad1 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad6 up}
+{Numpad4 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad8 up}
+{Numpad1 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (175)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 up}
+{Numpad5 down}
+{Numpad5 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (125)
+{Numpad2 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad5 down}
+{Numpad5 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad5 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad5 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad7 down}
+{Numpad7 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+{Numpad8 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad8 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (50)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad2 down}
+Sleep (85)
+{Numpad2 up}
+{Numpad0}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (125)
+{Numpad6 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad4 down}
+Sleep (125)
+{Numpad4 up}
+{Numpad0}
+{Numpad3 down}
+Sleep (125)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (675)
+{Numpad3 up}
+{Numpad1 down}
+{Numpad1 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (500)
+{Numpad6 up}
+{Numpad9}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad6 down}
+{Numpad5 down}
+{Numpad6 up}
+{Numpad5 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (675)
+{Numpad6 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad0}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad9}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (675)
+{Numpad3 up}
+{Numpad1 down}
+{Numpad1 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad7 up}
+Sleep (75)
+{Numpad0}
+{Numpad7 down}
+Sleep (425)
+{Numpad7 up}
+{Numpad9}
+{Numpad1 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (425)
+{Numpad6 up}
+{Numpad9}
+Sleep (250)
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad9}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad7 down}
+{Numpad7 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad4 down}
+Sleep (210)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+Sleep (175)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad0}
+{Numpad1 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+{Numpad3 down}
+Sleep (500)
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+Sleep (75)
+{Numpad9}
+{Numpad2 down}
+Sleep (175)
+{Numpad2 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+{Numpad3 up}
+Sleep (75)
+{Numpad0}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (425)
+{Numpad6 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad5 down}
+Sleep (250)
+{Numpad5 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad3 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad8 down}
+Sleep (250)
+{Numpad8 up}
+{Numpad9}
+{Numpad3 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad3 up}
+{Numpad6 up}
+{Numpad6 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad8 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad3 down}
+{Numpad3 up}
+{Numpad0}
+{Numpad1 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad0}
+{Numpad4 down}
+{Numpad4 up}
+{Numpad9}
+Sleep (40)
+{Numpad9}
+{Numpad2 down}
+Sleep (210)
+{Numpad2 up}
+{Numpad0}
+Sleep (40)
+{Numpad0}
+{Numpad6 down}
+Sleep (210)
+{Numpad6 up}
+{Numpad9}
+{Numpad1 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad6 up}
+{Numpad4 down}
+{Numpad8 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad8 up}
+{Numpad1 down}
+{Numpad7 down}
+Sleep (250)
+{Numpad1 up}
+{Numpad7 up}
+{Numpad6 down}
+{Numpad6 up}
+Sleep (75)
+{Numpad0}
+{Numpad6 down}
+Sleep (175)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad7 down}
+Sleep (250)
+{Numpad7 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+{Numpad6 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad6 up}
+{Numpad5 down}
+{Numpad5 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad2 down}
+{Numpad2 up}
+{Numpad9}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad9}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad4 down}
+Sleep (250)
+{Numpad4 up}
+{Numpad2 down}
+Sleep (250)
+{Numpad2 up}
+{Numpad0}
+{Numpad6 down}
+Sleep (250)
+{Numpad6 up}
+{Numpad1 down}
+Sleep (125)
+{Numpad1 up}
+{Numpad3 down}
+{Numpad5 down}
+Sleep (63)
+{Numpad3 up}
+{Numpad5 up}
+{Numpad4 down}
+{Numpad6 down}
+Sleep (63)
+{Numpad4 up}
+{Numpad6 up}
