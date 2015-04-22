@@ -1,5 +1,6 @@
 #include <GUIConstants.au3>
 #include <GUIConstantsEx.au3>
+#include <WindowsConstants.au3>
 #include <ColorConstants.au3>
 #include <MsgBoxConstants.au3>
 #include <File.au3>
@@ -8,7 +9,9 @@
 Dim $SongFile
 Global $StopSend = 0
 
-GetHandle()
+HotKeySet("{PAUSE}", "_SongStop")
+
+_GetHandle()
 
 Opt("GUICoordMode", 2)
 Opt("GUIResizeMode", 1)
@@ -17,25 +20,29 @@ Opt("GUIOnEventMode", 1)
 GUICreate("GW2 Songmaster", 300, 200, -1, -1, -1, BitOR($WS_EX_TOPMOST, $WS_EX_TOOLWINDOW))
 GUISetBkColor (0xffffff)
 
-GUISetOnEvent($GUI_EVENT_CLOSE, "CloseSongmaster")
+GUISetOnEvent($GUI_EVENT_CLOSE, "_CloseSongmaster")
 ;$idLabel = GUICtrlCreateLabel("", 0, 0, 300, 10)
 
 GUICtrlCreateButton("Play", 10, 10, 50)
-GUICtrlSetOnEvent(-1, "SongPlay")
+GUICtrlSetOnEvent(-1, "_SongPlay")
 
-GUICtrlCreateButton("Stop", 5, -1)
-GUICtrlSetOnEvent(-1, "SongStop")
+$Button_Stop = GUICtrlCreateButton("Stop", 5, -1)
+GUICtrlSetOnEvent($Button_Stop, "_SongStop")
 
 GUICtrlCreateButton("Add Song", 5, -1, 70)
-GUICtrlSetOnEvent(-1, "SongAdd")
+GUICtrlSetOnEvent(-1, "_SongAdd")
 
 GUICtrlCreateButton("Clear List", 5, -1, 70)
-GUICtrlSetOnEvent(-1, "ClearList")
+GUICtrlSetOnEvent(-1, "_ClearList")
 
 GUISetCoord(10,40)
 Global $Playlist = GuiCtrlCreateList("", -1, -1, 280, 150)
 
-GUISetState(@SW_SHOW)
+
+GUISetState()
+
+; Intercept Windows command messages with out own handler
+ GUIRegisterMsg($WM_COMMAND, "_WM_COMMAND")
 
 ; Just idle around
 While 1
@@ -45,18 +52,18 @@ WEnd
 
 ;--------------------------------------FUNCTIONS START--------------------------------------------------------
 ;----------------CloseSongmaster
-Func CloseSongmaster()
+Func _CloseSongmaster()
    Exit
 EndFunc
 
 ;----------------ClearList
-Func ClearList()
+Func _ClearList()
    GUICtrlSetData( $Playlist,"" )
    $SongFile = Null
 EndFunc
 
 ;----------------SongAdd
-Func SongAdd()
+Func _SongAdd()
 
    Global $SongFile = FileOpenDialog ( "Song auswaehlen", "", "Songdatei(*.txt)" )
 
@@ -68,17 +75,18 @@ Func SongAdd()
 EndFunc
 
 ;----------------Handle
-Func GetHandle()
+Func _GetHandle()
    Global $Handle = WinGetHandle( "Guild Wars 2" )
 EndFunc
 
-;----------------SongPlay
-Func SongStop()
-   $StopSend = 1
+;----------------SongStop
+Func _SongStop()
+   $StopSend = 2
 EndFunc
 
+
 ;----------------SongPlay
-Func SongPlay()
+Func _SongPlay()
 
    ; Prüft ob GW2 überhaupt läuft
    if Not($Handle) Then
@@ -107,7 +115,7 @@ Func SongPlay()
 		 Case 1
 			ConsoleWrite("!SongPlay wurde durch SongStop unterbrochen" & @CRLF)
 		 Case 2
-			ConsoleWrite("!SongPlay wurde durch unterbrochen" & @CRLF)
+			ConsoleWrite("!SongPlay wurde durch Hotkey unterbrochen" & @CRLF)
 		 EndSwitch
 		 Return
 	  EndIf
@@ -128,5 +136,11 @@ Func SongPlay()
 
    Next
 
+EndFunc
+
+Func _WM_COMMAND($hWnd, $Msg, $wParam, $lParam)
+     ; Wenn der Stop Button gedrueckt wurde
+     If BitAND($wParam, 0x0000FFFF) =  $Button_Stop Then $StopSend = 1
+     Return $GUI_RUNDEFMSG
 EndFunc
 ;--------------------------------------FUNCTIONS END-------------------------------------------------------- }
