@@ -3,5 +3,4 @@ Guild Wars 2 Songmaster
 
 User Those Keybindings:
 
-
-[logo]:https://gw2mb.com/image/controls.png
+![My image](https://gw2mb.com/image/controls.png)
