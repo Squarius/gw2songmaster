@@ -90,7 +90,7 @@ Func _SongPlay()
 
    ; Prüft ob GW2 überhaupt läuft
    if Not($Handle) Then
-	  GetHandle()
+	  _GetHandle()
 	  MsgBox( $MB_SYSTEMMODAL, "Fehler", "Guild Wars 2 nicht aktiv!", 10 )
 	  Return False
   EndIf
